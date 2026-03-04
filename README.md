@@ -1,13 +1,13 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br> 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%"/><br>
 
 </div>
 
 <hr>
 
-<h1 align="center">Hi 👋 I'm George Saad</h1>
+<h1 align="center">👋 I'm George Saad</h1>
 <h3 align="center">Backend Developer | PHP Specialist | ICPC Participant</h3>
 
 ---
@@ -28,9 +28,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
@@ -45,18 +42,6 @@
   - Algorithms
   - Problem Solving
   - Time Complexity Optimization
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%">
-
-</div>
-
 ---
 
 ## 🔥 Current Focus
@@ -70,8 +55,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (put your link)
-- 📧 Email: (put your email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/george-saad-4b53392b8 )
+- 📧 Email: (georgesaad263@gmail.com)
 - 🌐 Portfolio: (if available)
 
 ---
