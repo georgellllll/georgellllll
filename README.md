@@ -1,91 +1,132 @@
-<div align="center" width="50">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/><br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%"/><br>
-
-</div>
-
-<hr>
-
-<h1 align="center">Hi 👋 I'm George Saad</h1>
-<h3 align="center">Backend Developer | PHP Specialist | ICPC Participant</h3>
-
----
-
-## 🚀 About Me
-
-- 💻 Backend Developer specialized in **PHP**
-- 🧠 Strong foundation in **C++**
-- 🏆 Participated in **ICPC Competitive Programming**
-- 📚 Passionate about Algorithms, Problem Solving & System Design
-- 🔐 Interested in Backend Security & Clean Architecture
-
----
-
-## 🛠 Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🧠 Competitive Programming
-
-- 🏅 ICPC Participant
-- ⚡ Strong in:
-  - Data Structures
-  - Algorithms
-  - Problem Solving
-  - Time Complexity Optimization
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+
+# George Saad  
+### Backend Engineer | PHP Architect | Competitive Programmer
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=black" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=black" />
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+## 🧠 Engineering Identity
 
-- Building scalable backend systems with PHP
-- Improving system design skills
-- Practicing advanced algorithms
-- Learning secure backend practices
+- Backend Engineer specialized in **PHP**
+- Strong foundation in **C++ & Algorithms**
+- Participant in the **:contentReference[oaicite:0]{index=0} (ICPC)**
+- Focused on scalable architecture & secure backend systems
+- Performance-first development mindset
 
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: (put your link)
-- 📧 Email: (put your email)
-- 🌐 Portfolio: (if available)
+> “Scalability is planned. Security is enforced. Performance is engineered.”
 
 ---
 
-## ⚡ Fun Fact
+## ⚙️ Core Backend Stack
 
-Competitive programming taught me one thing:
+### 🟢 Backend Engineering
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth_Systems-000000?style=for-the-badge)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-000000?style=for-the-badge)
 
-> If it works on sample tests, it will probably fail on hidden tests 😅
+### 🗄 Database Design
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-000000?style=for-the-badge)
+
+### 🧮 Competitive Programming DNA
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
+![Data Structures](https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=for-the-badge)
+![Time Complexity](https://img.shields.io/badge/Complexity_Analysis-000000?style=for-the-badge)
+
+### 🛠 Environment
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🏗 System Design Philosophy
+
+```cpp
+class BackendSystem {
+
+    void build() {
+        design_clean_architecture();
+        enforce_security_layers();
+        optimize_database_queries();
+        reduce_time_complexity();
+        write_maintainable_code();
+    }
+
+};
+```
+
+---
+
+## 🔐 Security & Performance Focus
+
+- Input validation & sanitization
+- Secure authentication flows
+- Session management best practices
+- SQL query optimization
+- Memory & execution efficiency
+- Defensive programming mindset
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="48%">
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+---
+
+## 🚀 Current Mission
+
+- Engineering scalable PHP backend systems
+- Designing production-ready REST APIs
+- Mastering advanced system design
+- Strengthening backend security practices
+- Continuous algorithm training
+
+---
+
+## 🧬 Engineering Mindset
+
+> ICPC taught me to solve problems under constraints.  
+> Backend engineering taught me to design systems without limits.
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: (add link)  
+- Email: (add email)  
 
 ---
 
 <div align="center">
-  
-### 💻 Code • Debug • Optimize • Repeat
+
+## ⚡ I don’t just write code.  
+## I engineer systems.
 
 </div>
